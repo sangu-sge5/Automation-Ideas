@@ -11,3 +11,5 @@ step 5
 end
 
 step 6 - new line
+
+TESTING AND BUG FIX
